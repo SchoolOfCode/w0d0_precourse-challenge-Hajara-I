@@ -1,0 +1,48 @@
+html {
+    font-size: 10px;
+  }
+  
+  body {
+    font-family: Arial, Sans-serif; 
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #2b2b2b;
+    margin:0;
+    background-color: white;
+  }
+  
+  h1 {
+    font-size: 4rem;
+  }
+  
+  h3 {
+    font-size: 1.5;
+  }
+  
+  a {
+    color: #046262;
+  }
+  
+  #img-div {
+    background: white;
+    padding: 10px;
+   }
+  
+  #img-caption {
+    margin: 15px 0 5px 0;
+  }
+  
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.75;
+  }
+  
+  img {
+    max-width: 25%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
